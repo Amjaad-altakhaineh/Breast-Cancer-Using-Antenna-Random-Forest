@@ -35,6 +35,7 @@ h-	Evaluating the model: The model can be assessed using regr multirf.predict af
 i-	Model Performance Measurement As previously indicated, Testing It's time to test your model's ultimate performance once you've trained and tuned it. Since Random Forest is just another regression technique, you may evaluate its performance using any regression statistic. You could make use of MAE, MSE, MASE, RMSE, MAPE, SMAPE, and other models. However, based on my observations, MSE and MAE are the most frequently employed. To assess the effectiveness of the model, both of them will be a good fit. The error of the perfect model will be equal to zero, thus if you utilize them, keep in mind that the less your error, the better. R2 can be used to present the performance of the model as a percentage of 100% for accuracy metrics
 
 
-
+Conclusion
+It is noted that the performance of the second dataset is better than the first, and this gives the impression that increasing the features and the number of rows may improve the performance of the model in the near future.
 
 
