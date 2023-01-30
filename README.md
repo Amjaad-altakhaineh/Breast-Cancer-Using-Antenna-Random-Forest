@@ -49,13 +49,5 @@ A powerful and user-friendly Python package for machine learning is Scikit-learn
 # Conclusion
 It is noted that the performance of the second dataset is better than the first, and this gives the impression that increasing the features and the number of rows may improve the performance of the model in the near future.
 
-# References
 
-F. Wang, T. Arslan, and G. Wang, “Breast cancer detection with microwave imaging system using wearable conformal antenna arrays,” 2017 IEEE International Conference on Imaging Systems and Techniques (IST), 2017.
-
-Y. Rahayu, R. Rosdiansyah, M. F. Hilmi, and T. Odih, “Wearable antenna for time-domain breast tumor detection,” International Journal of Technology, vol. 12, no. 6, p. 1101, 2021. 
-
-A. A. Halim, A. M. Andrew, W. A. Mustafa, M. N. Mohd Yasin, M. Jusoh, V. Veeraperumal, M. A. Abd Rahman, N. Zamin, M. R. Mary, and S. Khatun, “Optimized intelligent classifier for early breast cancer detection using ultra-wide band transceiver,” Diagnostics, vol. 12, no. 11, p. 2870, 2022. 
-
-K. Al-Azani, S. Elkatatny, A. Abdulraheem, M. Mahmoud, and D. Al-Shehri, “Real time prediction of the rheological properties of oil-based drilling fluids using artificial neural networks,” All Days, 2018. 
 
